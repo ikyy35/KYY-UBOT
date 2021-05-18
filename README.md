@@ -11,7 +11,7 @@
 </p>  
 
 # RAM UBOT
-[![Deploy](https://telegra.ph/file/20210518_105243.jpg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git)
+[![Deploy](https://telegra.ph/file/20210518105243.jpg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git)
 # KLIK FOTO NYA KALO MAU DEPLOY
 
 <h3 align="center">REPO RAM-UBOT DIBUAT KARNA LAGI GABUT AJA SI HAHA.</h3>
