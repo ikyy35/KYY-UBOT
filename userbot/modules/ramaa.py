@@ -45,13 +45,13 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("**Adel Jia Ime, GJM!**")
     sleep(3)
-    await typew.edit("**Kalian Semua stress,Kecuali rama😋**")
+    await typew.edit("**Kalian Semua stress,Kecuali ikyy😋**")
 
 # Create by myself @localheart
 
 CMD_HELP.update({
-    "ram-ubot":
-    "`.ram`\
+    "IKYY-UBOT":
+    "`.kyy`\
     \nUsage: alive bot.\
     \n\n`.sadboy`\
     \nUsage: hiks\
