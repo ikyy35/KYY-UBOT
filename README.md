@@ -11,7 +11,7 @@
 </p>  
 
 # RAM UBOT
-[![Deploy](https://telegra.ph/file/62adc50a87f4019476177.jpg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git)
+[![Deploy](https://telegra.ph/file/20210518_105243.jpg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git)
 # KLIK FOTO NYA KALO MAU DEPLOY
 
 <h3 align="center">REPO RAM-UBOT DIBUAT KARNA LAGI GABUT AJA SI HAHA.</h3>
@@ -40,7 +40,7 @@ Caranya Pergi Ke Grup Support Lalu Ketik #String [TEKAN DISINI](https://t.me/GEE
 
   > Terakhir Hidupkan Dyno Lalu Check Logs (settings -> view logs) Jika Berhasil Enjoy :)
 ```
-Atau Bisa Gabung Ke Grup  -> [TEKAN DISINI](https://t.me/teman_random)
+Atau Bisa Gabung Ke Grup  -> [TEKAN DISINI](https://t.me/remaja_virtual62)
 ## <p align="center">BURUAN DEPLOY!</p>
 
 
